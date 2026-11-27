@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CommandPattern">
+      <UniqueIdentifier>{b3ef84dd-4128-40fa-ae59-5d7d9164f32c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommandPattern.h">
+      <Filter>CommandPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPattern.h" />
+  </ItemGroup>
+</Project>
