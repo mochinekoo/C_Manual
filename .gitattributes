@@ -1,2 +1,10 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+*.cpp linguist-detectable=true
+*.cpp linguist-documentation=false
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+*.hpp linguist-detectable=true
+*.hpp linguist-documentation=false
